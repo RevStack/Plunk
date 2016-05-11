@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevStack.Plunk", "RevStack.Plunk.csproj", "{33402B84-BF24-4BFF-9087-C2ABD9038353}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "..\UnitTest\UnitTest.csproj", "{C1ACB107-5054-476B-836C-E10A0CDB1258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33402B84-BF24-4BFF-9087-C2ABD9038353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33402B84-BF24-4BFF-9087-C2ABD9038353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33402B84-BF24-4BFF-9087-C2ABD9038353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33402B84-BF24-4BFF-9087-C2ABD9038353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1ACB107-5054-476B-836C-E10A0CDB1258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1ACB107-5054-476B-836C-E10A0CDB1258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1ACB107-5054-476B-836C-E10A0CDB1258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1ACB107-5054-476B-836C-E10A0CDB1258}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
